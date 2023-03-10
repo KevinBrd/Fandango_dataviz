@@ -10,12 +10,12 @@ Author: Kévin Bourdon
 
 ## Dependencies
 
-Python 3 (3.10 or higher)
-Jupyter Notebook (6.4.7 or higher)
-Numpy
-Pandas
-Matplotlib
-Seaborn
+Python 3 (3.10 or higher) <br>
+Jupyter Notebook (6.4.7 or higher)<br>
+Numpy<br>
+Pandas<br>
+Matplotlib<br>
+Seaborn<br>
 Scipy
 
 Install these tools with
