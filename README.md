@@ -6,7 +6,7 @@ Does the company tend to overrate movies with better ratings than they should?
 
 Let's determine if Fandango's scores in 2015 were geared towards better film ratings in an effort to sell more tickets.
 
-Author: Kévin Bourdon
+Author: Kevin Bourdon
 
 ## Dependencies
 
@@ -40,5 +40,5 @@ The analysis is based on an article : [Be Suspicious Of Online Movie Ratings, Es
 
 ## Contact
 
-For questions or comments, please contact [Kévin Bourdon](mailto:kevin.bourdon.etu@univ-lille.fr). I would love
+For questions or comments, please contact [Kevin Bourdon](mailto:kevin.bourdon@kedgebs.com). I would love
 to hear from you.
